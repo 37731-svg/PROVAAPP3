@@ -40,7 +40,9 @@ Recarga (3 dias): R$ 24.0
 
 
 -------------------------------------------------------------------CONTEUDO DO CHATPGT--------------------------------------------------------------------------------------
-1. O que já está dentro do ZIP
+P: por questoes de tempo, me manda um arquivo com a estrutura necessaria já pronta, assim como me ajude a realizar o questionario da melhor maneira
+
+R: 1. O que já está dentro do ZIP
 A estrutura está organizada assim:
 Locadora_Estrada_Livre/
 │
